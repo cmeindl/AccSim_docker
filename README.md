@@ -2,6 +2,7 @@
 Docker file to Run account Simulator
 
 Runs on port 9000
+
 :9000/*   - Get full array
 
 :9000/ - get next item in array
